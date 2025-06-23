@@ -57,11 +57,8 @@
   <a href="https://otsimaofficial.medium.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="85" height="35" alt="medium logo"  />
   </a>
-  <a href="https://youtube.com/Otsimaofficial" target="_blank">
+  <a href="https://youtube.com/@Otsimaofficial" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="85" height="35" alt="youtube logo"  />
-  </a>
-  <a href="emmanuelotsimaogbu@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
   </a>
 </div>
 
